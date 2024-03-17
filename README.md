@@ -1,2 +1,2 @@
 # miaotest
-test
+lucky
